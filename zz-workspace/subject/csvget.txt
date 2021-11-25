@@ -1,0 +1,5 @@
+.headers on
+.mode csv
+.output syain.csv
+SELECT * FROM 社員マスタ;
+.quit
